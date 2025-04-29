@@ -1,4 +1,4 @@
-# **Tipos Primitivos em Python**
+# **Python: Tipos Primitivos, Operadores e Condicionais**
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*Y0ib5hBXcXwn6JQ3j2y5wQ.png" alt="ilustração linguagem python" width="700"/>
 
